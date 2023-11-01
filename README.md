@@ -1,4 +1,4 @@
 # html-css-project
-simple page with resopnsive
+sigle html Bootstrap page with resopnsive
 <br>
 Author: Chaman Gupta
